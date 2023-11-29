@@ -10,10 +10,5 @@ In recent years, the popularity of virtual reality (VR) has surged due to advanc
 
 ###Motivation & Background
 Recent studies have investigated the use of stereo-image datasets from VR videos to predict cybersickness. Padmanaban et al. utilized a dataset of 19 VR videos, achieving a root-mean-square error (RMSE) of 12.6 with depth and optical flow features. Lee et al. improved this with a 3D-convolutional neural network, reaching an RMSE of 8.49, incorporating optical flow, disparity, and saliency features. Kim et al. used a convolutional autoencoder with exceptional motion videos. Prior studies often used pre-recorded HMD-rendered videos, limiting participant interaction. Jin et al. achieved an 86.8% R^2 value using diverse VR videos. In this study, we used transfer learning for extracting features from stereo images in virtual sessions with a larger, diverse ImageNet dataset, enhancing understanding through knowledge transfer from a broader image range.
-![image](https://github.com/Jyotinag/ComputerVisionProject/assets/33356879/25f8d5d6-65ef-4aff-99ac-2946152d3cc0)
 
-
-![image](https://github.com/Jyotinag/ComputerVisionProject/assets/33356879/b320aa33-1daa-4498-aae0-c738148a4416)
-
-![image](https://github.com/Jyotinag/ComputerVisionProject/assets/33356879/4f0c6c0c-260d-4d04-99ab-a73405a41291)
 
